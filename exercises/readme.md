@@ -1,8 +1,8 @@
 # API Exercise: JSONPlaceholder
 
 ## Public API Used
-- API: JSONPlaceholder (https://jsonplaceholder.typicode.com)  
-- Description: A free fake REST API for testing and prototyping.
+- **API:** [JSONPlaceholder](https://jsonplaceholder.typicode.com)  
+- **Description:** A free fake REST API for testing and prototyping.
 
 ---
 
@@ -39,7 +39,11 @@ This GET request retrieves a list of posts from the API. Each post contains a `u
         "body": "et iusto sed quo iure..."
     }
 ]
+```
 
+---
+
+## POST Request
 
 **Description:**  
 This example demonstrates how to send a POST request to create a new post using `APIClient.post_data()`:
