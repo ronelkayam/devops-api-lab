@@ -11,9 +11,9 @@ def main():
 
     # POST request example
     payload = {
-        "title": "foo",
-        "body": "bar",
-        "userId": 1
+        "title": "Test Post",
+        "body": "Post Result",
+        "userId": 2
     }
     print("\nSending a POST request:")
     response = client.post_data("posts", payload)
