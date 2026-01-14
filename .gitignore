@@ -1,0 +1,75 @@
+# ========================
+# Python
+# ========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so they can be ignored
+*.manifest
+*.spec
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+logs.txt
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+.env
+env/
+ENV/
+
+# ========================
+# IDE / Editor
+# ========================
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Jupyter Notebook checkpoints
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Other temporary files
+# ========================
+*.swp
+*.swo
