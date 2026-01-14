@@ -8,20 +8,18 @@ git pull origin main
 Create a branch for your group:
 
 
-Copy code
 git checkout -b group1
 Work on your exercise files (demo.py or new scripts).
 
 Commit your changes:
 
 
-Copy code
+
 git add .
 git commit -m "Added GET request exercise"
 Push your branch to GitHub:
 
 
-Copy code
 git push origin group1
 Create a Pull Request to merge into main.
 
