@@ -13,7 +13,7 @@ This repository contains a simple Python project and exercises designed for DevO
 1. Clone the repository:
 
 bash
-git clone <your-repo-URL>
+git clone https://github.com/ronelkayam/devops-api-lab
 cd mini-api-repo
 Install dependencies (run once in your Python terminal):
 
