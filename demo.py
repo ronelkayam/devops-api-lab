@@ -5,8 +5,8 @@ def main():
     client = APIClient("https://jsonplaceholder.typicode.com")
 
     # GET request example
-    print("Fetching first 3 posts:")
-    posts = client.get_data("posts")[:3]
+    print("Fetching first 4 posts:")
+    posts = client.get_data("posts")[:4]
     pretty_print(posts)
 
     # POST request example
