@@ -21,3 +21,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#Andrey
+def example_function():
+    print("This is a code bit from Andrey.")
+
+example_function()
+
