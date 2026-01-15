@@ -9,6 +9,7 @@ def main():
     posts = client.get_data("posts")[:3]
     pretty_print(posts)
 
+
     # POST request example
     payload = {
         "title": "foo",
